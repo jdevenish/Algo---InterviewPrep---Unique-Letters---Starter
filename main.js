@@ -1,3 +1,5 @@
+//Adding comments to test github integration with repl.it
+
 /* REMOVE DUPLICATES
 
 Given an array of letters where some or all of the letters have duplicate values, return a new array of only a unique instance of each letter
