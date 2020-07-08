@@ -60,6 +60,7 @@ RETURNS: [a,b,c,d,e,l]
 
 
 // UNCOMMENT THE BELOW CODE TO BEGIN
+// Adding comments for github testing
 
 const letters = ['a','a','b','b','c', 'c', 'd', 'l', 'l']
 
